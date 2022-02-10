@@ -1,4 +1,4 @@
-# codesandbox-ios - Online IDE for PHP. 
+# codesandbox-ios - JavaScript IDE for iOS. 
 
 [![A](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](http://discord.gg/Pr4ft3gBTx)
 
